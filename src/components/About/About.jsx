@@ -5,7 +5,7 @@ export default function About() {
                 <div className='col-lg-4 about-card'>
                     <h3 className='font-weight-light'>Who am I ?</h3>
                     <span className='line mb-5'></span>
-                    <h5 className='mb-3'>Software Engineer / Developer</h5>
+                    <h5 className='mb-3'>Web Developer</h5>
                     <p className='mt-20'>
                         Lorem ipsum dolor sit amet, consectetur adipisicing
                         elit.sit amet, Qui deserunt consequatur fugit

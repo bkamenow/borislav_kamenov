@@ -19,14 +19,22 @@ export default function Projects() {
                                     Cooking-manager
                                 </h5>
                                 <p className='subtitle'>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Ullam commodi provident,
-                                    dolores reiciendis enim pariatur error
-                                    optio, tempora ex, nihil nesciunt! In
-                                    praesentium sunt commodi, unde ipsam ex
-                                    veritatis laboriosam dolor asperiores
-                                    suscipit blanditiis, dignissimos quos
-                                    nesciunt nulla aperiam officia.
+                                    Cooking-manager is an easy-to-use web
+                                    program that streamlines recipe
+                                    administration, encourages community
+                                    sharing, and allows for convenient
+                                    ingredient tracking. This project embodies
+                                    efficiency and interaction by leveraging the
+                                    power of Django Rest Framework with React.
+                                    The Django Rest Framework offers strong
+                                    backend capabilities while effortlessly
+                                    integrating with React&apos;s dynamic and
+                                    responsive user experience. Cooking-manager
+                                    is more than just a recipe manager;
+                                    it&apos;s a culinary community hub that
+                                    demonstrates my dedication to developing
+                                    straightforward and engaging solutions for
+                                    culinary enthusiasts.
                                 </p>
                             </div>
                         </div>
@@ -44,14 +52,23 @@ export default function Projects() {
                                     PrimeZilla – The Giant Shop
                                 </h5>
                                 <p className='subtitle'>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Ullam commodi provident,
-                                    dolores reiciendis enim pariatur error
-                                    optio, tempora ex, nihil nesciunt! In
-                                    praesentium sunt commodi, unde ipsam ex
-                                    veritatis laboriosam dolor asperiores
-                                    suscipit blanditiis, dignissimos quos
-                                    nesciunt nulla aperiam officia.
+                                    PrimeZilla exemplifies my ability to create
+                                    simplified online retail experiences. This
+                                    project streamlines online store
+                                    administration by utilizing the Django Rest
+                                    Framework, React, PostgreSQL, and being
+                                    extended with attractive CSS and React
+                                    Bootstrap. The Django Rest Framework ensures
+                                    robust backend functionality that is
+                                    smoothly linked with the React-powered
+                                    dynamic and responsive user experience. The
+                                    use of PostgreSQL optimizes data management,
+                                    while the careful usage of CSS and React
+                                    Bootstrap adds a level of sophistication to
+                                    the overall design. PrimeZilla demonstrates
+                                    my ability to leverage cutting-edge
+                                    technologies to produce user-friendly and
+                                    efficient e-commerce solutions.
                                 </p>
                             </div>
                         </div>
@@ -70,14 +87,21 @@ export default function Projects() {
                                     Biotics – Biology Social Network
                                 </h5>
                                 <p className='subtitle'>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Ullam commodi provident,
-                                    dolores reiciendis enim pariatur error
-                                    optio, tempora ex, nihil nesciunt! In
-                                    praesentium sunt commodi, unde ipsam ex
-                                    veritatis laboriosam dolor asperiores
-                                    suscipit blanditiis, dignissimos quos
-                                    nesciunt nulla aperiam officia.
+                                    Biotics, my flagship project, demonstrates
+                                    my web development abilities. It&apos;s a
+                                    dynamic Biology social network that
+                                    showcases teamwork and is built using
+                                    Django, HTML, CSS, PostgreSQL, and Stripe.
+                                    Django-powered platform&apos;s elegant UI
+                                    easily incorporates complicated
+                                    capabilities. HTML and CSS help to create an
+                                    appealing user experience, while PostgreSQL
+                                    handles data efficiently. Stripe integration
+                                    enables secure transactions, emphasizing my
+                                    all-encompassing approach to developing new
+                                    web solutions. Biotics is more than just a
+                                    project; it exemplifies my commitment to
+                                    pushing the frontiers of digital platforms.
                                 </p>
                             </div>
                         </div>
