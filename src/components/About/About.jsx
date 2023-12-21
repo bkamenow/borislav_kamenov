@@ -53,17 +53,6 @@ export default function About() {
                                 <i className='ti-github' aria-hidden='true'></i>
                             </a>
                         </li>
-                        <li className='social-item'>
-                            <a
-                                className='social-link'
-                                href='https://www.facebook.com/bor8slav'
-                            >
-                                <i
-                                    className='ti-facebook'
-                                    aria-hidden='true'
-                                ></i>
-                            </a>
-                        </li>
 
                         <li className='social-item'>
                             <a
@@ -72,6 +61,18 @@ export default function About() {
                             >
                                 <i
                                     className='ti-instagram'
+                                    aria-hidden='true'
+                                ></i>
+                            </a>
+                        </li>
+
+                        <li className='social-item'>
+                            <a
+                                className='social-link'
+                                href='https://www.facebook.com/bor8slav'
+                            >
+                                <i
+                                    className='ti-facebook'
                                     aria-hidden='true'
                                 ></i>
                             </a>

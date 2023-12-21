@@ -4,28 +4,35 @@ export default function Header() {
             <div className='container'>
                 <ul className='social-icons pt-3'>
                     <li className='social-item'>
-                        <a className='social-link text-light' href='#'>
-                            <i className='ti-facebook' aria-hidden='true'></i>
+                        <a
+                            className='social-link text-light'
+                            href='https://www.linkedin.com/in/bkamenow/'
+                        >
+                            <i className='ti-linkedin' aria-hidden='true'></i>
                         </a>
                     </li>
                     <li className='social-item'>
-                        <a className='social-link text-light' href='#'>
-                            <i className='ti-twitter' aria-hidden='true'></i>
+                        <a
+                            className='social-link text-light'
+                            href='https://github.com/bkamenow'
+                        >
+                            <i className='ti-github' aria-hidden='true'></i>
                         </a>
                     </li>
                     <li className='social-item'>
-                        <a className='social-link text-light' href='#'>
-                            <i className='ti-google' aria-hidden='true'></i>
-                        </a>
-                    </li>
-                    <li className='social-item'>
-                        <a className='social-link text-light' href='#'>
+                        <a
+                            className='social-link text-light'
+                            href='https://www.instagram.com/borislav.kamenow/'
+                        >
                             <i className='ti-instagram' aria-hidden='true'></i>
                         </a>
                     </li>
                     <li className='social-item'>
-                        <a className='social-link text-light' href='#'>
-                            <i className='ti-github' aria-hidden='true'></i>
+                        <a
+                            className='social-link text-light'
+                            href='https://www.facebook.com/bor8slav'
+                        >
+                            <i className='ti-facebook' aria-hidden='true'></i>
                         </a>
                     </li>
                 </ul>
